@@ -39,8 +39,6 @@ Home component within the Portfolio Management system is responsible for display
 
 ## 2. Backend - for the backend I used NestJs, to handle CRUD operations and interactions with portfolio data.
 
-### Endpoints
-
 ## POST /portfolios
 - Functionality: Creates a new portfolio entry.
 - Request: Expects a JSON body containing details of the portfolio entry (title, description, imageUrl, customerWebsite).
